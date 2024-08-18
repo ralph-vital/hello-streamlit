@@ -1,2 +1,5 @@
 snowflake
 python-dotenv
+streamlit-plotly-events
+pandas
+python-dotenv
